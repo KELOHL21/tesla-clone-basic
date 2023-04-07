@@ -5,5 +5,5 @@
 
 ![Screenshot (86)](https://user-images.githubusercontent.com/98853556/230650764-5ad89a78-fb73-44a7-b304-8baca022ff9e.png)
 
-<p>Check it out: </p>
+<h2>Check it out: </h2>
 https://kelohl21.github.io/tesla-clone-basic/
